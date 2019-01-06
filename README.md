@@ -10,7 +10,7 @@ To ensure a smooth transition process, please make sure to [sign up for a free u
 
 ## Drop-in replacement! 
 
-The newly launched userstack API will act as a drop-in replacement for your current API integration. The new API endpoint will feature a "legacy" parameter that causes the userstack API to return API results in exactly the same format as was used UserAgent API results. 
+The newly launched userstack API will act as a drop-in replacement for your current API integration. The new API endpoint will feature a "legacy" parameter that causes the userstack API to return API results in exactly the same format that was used in UserAgent API results. 
 
 ## Shutdown of UserAgent API endpoints
 
