@@ -6,7 +6,7 @@ Great news! After months of work we're happy to announce that your long trusted 
 
 ## Switch to the new API now
 
-To keep this process as smooth as possible, please make sure to [sign up for a free userstack API account](https://userstack.com/product) now, get your API access key and adjust your application to make use of the new userstack API endpoint. 
+To ensure a smooth transition process, please make sure to [sign up for a free userstack API account](https://userstack.com/product) now, get your API access key and adjust your application to make use of the new userstack API endpoint. 
 
 ## Drop-in replacement! 
 
