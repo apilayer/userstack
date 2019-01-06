@@ -2,7 +2,7 @@
 
 # UserAgent API has been relaunched as userstack
 
-Great news! After months of work we're happy to announce that your long trusted UserAgent API product has been rebuilt completely, extended in functionality and relaunched under a new name - userstack. With multiple data updates per week, lightning-fast API responses, a series of new features and an overall better user experience we are making an effort to offer a new API platform to serve our loyal base of customers. 
+Great news! After months of work we're happy to announce that your long trusted UserAgent API product has been rebuilt completely, extended in functionality and relaunched under a new name - userstack. With multiple data updates per week, lightning-fast API responses, a series of new features and an overall more intuitive user experience we are making an effort to offer a new, advanced API platform to better serve our loyal base of customers. 
 
 ## Switch to the new API now
 
