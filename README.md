@@ -2,9 +2,21 @@
 
 # UserAgent API has been relaunched as userstack
 
-Great news! After months of work we're happy to announce that your long trusted UserAgent API has now been rebuilt completely, extended in functionality and relaunched under the name userstack. 
+Great news! After months of work we're happy to announce that your long trusted UserAgent API product has been rebuilt completely, extended in functionality and relaunched under a new name - userstack. With multiple data updates per week, lightning-fast API responses, a series of new features and an overall better user experience we are making an effort to offer a new API platform to serve our loyal base of customers. 
 
-https://userstack.ninja/documentation#enable_legacy_format
+## Switch to the new API now
+
+To keep this process as smooth as possible, please make sure to [sign up for a free userstack API account](https://userstack.com/product) now, get your API access key and adjust your application to make use of the new userstack API endpoint. 
+
+## Drop-in replacement! 
+
+The newly launched userstack API will act as a drop-in replacement for your current API integration. The new API endpoint will feature a "legacy" parameter that causes the userstack API to return API results in exactly the same format as was used UserAgent API results. 
+
+## Shutdown of UserAgent API endpoints
+
+Until January 31st you will still be able to use the now discontinued UserAgent API endpoint. However, to prevent service disruption please make sure to create an account with userstack soon and switch to the new userstack API endpoint. 
+
+We look forward to welcoming you as a new userstack customer!
 
 # userstack
 
