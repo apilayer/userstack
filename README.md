@@ -1,5 +1,11 @@
 ![userstack API](https://github.com/apilayer/userstack/blob/master/warning-userstack.png?raw=true)
 
+# UserAgent API has been relaunched as userstack
+
+Great news! After months of work we're happy to announce that your long trusted UserAgent API has now been rebuilt completely, extended in functionality and relaunched under the name userstack. 
+
+https://userstack.ninja/documentation#enable_legacy_format
+
 # userstack
 
 Stay up to date by following [@apilayernet](https://twitter.com/apilayernet) on Twitter.
