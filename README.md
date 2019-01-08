@@ -12,7 +12,7 @@ To ensure a smooth transition process, please make sure to [sign up for a free u
 
 The newly launched userstack API will act as a drop-in replacement for your current API integration. The new API endpoint will feature a "legacy" parameter that causes the userstack API to return API results in exactly the same format that was used in UserAgent API results. 
 
-To learn more about how to enable legacy format, please refer to our API Documentation: https://userstack.com/documentation#enable_legacy_format
+To learn more about how to enable legacy format, please refer to the [userstack API Documentation](https://userstack.com/documentation#enable_legacy_format).
 
 ## Shutdown of UserAgent API endpoints
 
