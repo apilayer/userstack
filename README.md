@@ -1,6 +1,6 @@
 # userstack
 
-Stay up to date by following [@apilayernet](https://twitter.com/apilayernet) on Twitter.
+Stay up to date by following [@apilayer](https://twitter.com/apilayer) on Twitter.
 
 [userstack](https://userstack.com) is the leading API service for User-Agent Lookup and device, browser, and operating system detection, supporting all major programming languages, such as PHP, Python, Ruby, Go, Nodejs, Java, and many more. The userstack API can be used for free at basic level and offers cost-effective and startup-friendly subscription plans for higher volumes. 
 
